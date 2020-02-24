@@ -1,0 +1,22 @@
+{
+  "name": "thuong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chihiro1402/thuong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chihiro1402/thuong/issues"
+  },
+  "homepage": "https://github.com/chihiro1402/thuong#readme",
+  "dependencies": {
+    "actions-on-google": "^2.12.0"
+  }
+}
